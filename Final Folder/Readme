@@ -1,5 +1,5 @@
 Version finale téléchargeable du défi IA.
-Il faut télécharger tout le dossier appelé "Clean Folder" et ensuite ouvrir un terminal dans ce dossier.
+Il faut télécharger tout le dossier appelé "Final Folder" et ensuite ouvrir un terminal dans ce dossier.
 Les commandes docker à mettre sur le terminal afin d'obtenir le lien de notre application : 
   docker build -t seryanaimage . 
   docker run -it seryanaimage   (linux) OU winpty docker run -it seryanaimage (sur Windows)
