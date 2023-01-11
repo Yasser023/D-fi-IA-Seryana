@@ -2,7 +2,7 @@ Version finale téléchargeable du défi IA.
 Il faut télécharger tout le dossier appelé "Final Folder" et ensuite ouvrir un terminal dans ce dossier.
 Les commandes docker à mettre sur le terminal afin d'obtenir le lien de notre application : 
   docker build -t seryanaimage . 
-  docker run -it seryanaimage OU winpty docker run -it seryanaimage (sur un terminal git)
+  docker run -it seryanaimage (rajouter le préfixe winpty si c'est exécuté sur git bash)
 Un lien (utiliser le lien public) va apparaitre et permet en le collant dans un navigateur d'accéder à notre application GRADIO
 (Pour fermer l'application il suffit de faire ctrl+c dans le terminal)
 
