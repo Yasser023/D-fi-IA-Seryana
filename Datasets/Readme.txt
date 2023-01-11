@@ -1,0 +1,1 @@
+Ce dossier contient tous les datasets que l'on a construits lors du défi, ainsi que les .csv features_hotels et sample_submission
