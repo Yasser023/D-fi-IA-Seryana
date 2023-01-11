@@ -3,6 +3,6 @@ Il faut télécharger tout le dossier appelé "Final Folder" et ensuite ouvrir u
 Les commandes docker à mettre sur le terminal afin d'obtenir le lien de notre application : 
   docker build -t seryanaimage . 
   docker run -it seryanaimage   (linux) OU winpty docker run -it seryanaimage (sur Windows)
-Un lien (en local ou public) va apparaitre et permet en le collant dans un navigateur d'accéder à notre application GRADIO
+Un lien (utiliser le lien public) va apparaitre et permet en le collant dans un navigateur d'accéder à notre application GRADIO
 (Pour fermer l'application il suffit de faire ctrl+c dans le terminal)
 
