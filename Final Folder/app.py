@@ -47,7 +47,7 @@ date_input = gr.Number(label= "Nombre de jours avant votre voyage")
 parking_input = gr.Checkbox(label = "Hotel avec parking?")
 pool_input = gr.Checkbox(label = "Hotel avec piscine?")
 children_input = gr.Checkbox(label = "Hotel avec club pour enfants?")
-city_input = gr.Dropdown(["amsterdam","vienna","madrid","rome","paris","valletta","vilnius","copenhangen","sofia"],label = "Ville")
+city_input = gr.Dropdown(["amsterdam","vienna","madrid","rome","paris","valletta","vilnius","copenhagen","sofia"],label = "Ville")
 language_input = gr.Dropdown(['austrian', 'belgian', 'bulgarian', 'croatian', 'cypriot',
  'czech', 'danish', 'dutch', 'estonian', 'finnish', 'french', 'german', 'greek', 'hungarian', 'irish', 'italian', 'latvian',
   'lithuanian', 'luxembourgish', 'maltese', 'polish', 'portuguese', 'romanian', 'slovakian', 'slovene', 'spanish', 'swedish'],label = "Langue")
